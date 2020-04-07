@@ -25,7 +25,7 @@ public class App
     	ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("appContextAnnotations.xml");
     	
 //    	Get a reference to the object
-    	Engineer eng = context.getBean("aE", Engineer.class);
+    	//Engineer eng = context.getBean("aE", Engineer.class);
     	
 //    	Get another reference to the object
 //    	Engineer secEng = context.getBean("cE", Engineer.class);
