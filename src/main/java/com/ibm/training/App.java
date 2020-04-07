@@ -34,7 +34,7 @@ public class App
 //    	System.out.println(eng +"\n" + secEng);
     	
 //    	Call the method
-    	system.out.println("hello");	
+    	System.out.println("hello");	
     	
     }
     
